@@ -1,0 +1,13 @@
+/Users/cameriemazreku/Desktop/Project 1 Multigame Card 2/Project 1 Multigame Card/obj/Debug/netcoreapp3.1/Project 1 Multigame Card.csproj.AssemblyReference.cache
+/Users/cameriemazreku/Desktop/Project 1 Multigame Card 2/Project 1 Multigame Card/obj/Debug/netcoreapp3.1/Project 1 Multigame Card.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cameriemazreku/Desktop/Project 1 Multigame Card 2/Project 1 Multigame Card/obj/Debug/netcoreapp3.1/Project 1 Multigame Card.AssemblyInfoInputs.cache
+/Users/cameriemazreku/Desktop/Project 1 Multigame Card 2/Project 1 Multigame Card/obj/Debug/netcoreapp3.1/Project 1 Multigame Card.AssemblyInfo.cs
+/Users/cameriemazreku/Desktop/Project 1 Multigame Card 2/Project 1 Multigame Card/obj/Debug/netcoreapp3.1/Project 1 Multigame Card.csproj.CoreCompileInputs.cache
+/Users/cameriemazreku/Desktop/Project 1 Multigame Card 2/Project 1 Multigame Card/bin/Debug/netcoreapp3.1/Project 1 Multigame Card.deps.json
+/Users/cameriemazreku/Desktop/Project 1 Multigame Card 2/Project 1 Multigame Card/bin/Debug/netcoreapp3.1/Project 1 Multigame Card.runtimeconfig.json
+/Users/cameriemazreku/Desktop/Project 1 Multigame Card 2/Project 1 Multigame Card/bin/Debug/netcoreapp3.1/Project 1 Multigame Card.runtimeconfig.dev.json
+/Users/cameriemazreku/Desktop/Project 1 Multigame Card 2/Project 1 Multigame Card/bin/Debug/netcoreapp3.1/Project 1 Multigame Card.dll
+/Users/cameriemazreku/Desktop/Project 1 Multigame Card 2/Project 1 Multigame Card/bin/Debug/netcoreapp3.1/Project 1 Multigame Card.pdb
+/Users/cameriemazreku/Desktop/Project 1 Multigame Card 2/Project 1 Multigame Card/obj/Debug/netcoreapp3.1/Project 1 Multigame Card.dll
+/Users/cameriemazreku/Desktop/Project 1 Multigame Card 2/Project 1 Multigame Card/obj/Debug/netcoreapp3.1/Project 1 Multigame Card.pdb
+/Users/cameriemazreku/Desktop/Project 1 Multigame Card 2/Project 1 Multigame Card/obj/Debug/netcoreapp3.1/Project 1 Multigame Card.genruntimeconfig.cache
